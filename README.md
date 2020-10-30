@@ -2,16 +2,6 @@
 
 
 
-<!--
-
-<p align="left"> 
- <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-
-</p>
-
--->
-
-
 
 <h1 align="left">
 <img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars,issues" />
