@@ -12,10 +12,9 @@
 -->
 
 
- 
 <hr>
 <h1 align="left">
-<img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
+<img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars,issues" />
 </h1>
 
 
@@ -35,6 +34,7 @@
 link status:
 https://github.com/anuraghazra/github-readme-stats
 &hide=stars,commits,prs,issues,contribs
+theme=dark
 
 
 **AtilaMedeiros/AtilaMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
