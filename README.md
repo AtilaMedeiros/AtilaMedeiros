@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-
+<!--
 
 <p align="left"> 
  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/>
 
 </p>
+
+-->
 
 <hr>
 <h1 align="center">
