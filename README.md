@@ -10,6 +10,14 @@
 -->
 
 
+ 
+<hr>
+<h1 align="center">
+<img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
+</h1>
+
+
+
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
@@ -18,12 +26,6 @@
 [![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-
- 
-<hr>
-<h1 align="center">
-<img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
-</h1>
 
 
 
