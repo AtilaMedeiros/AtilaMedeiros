@@ -12,13 +12,13 @@
 -->
 
 
-<hr>
+
 <h1 align="left">
 <img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars,issues" />
 </h1>
 
 
-
+<hr>
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
 [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
