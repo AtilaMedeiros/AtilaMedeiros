@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 
 <p align="left"> 
@@ -12,7 +14,7 @@
 
  
 <hr>
-<h1 align="center">
+<h1 align="left">
 <img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=dark&count_private=true&hide=stars,issues" />
 </h1>
 
