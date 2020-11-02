@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to Atila Lavor's Github page 😄
 
-
+- 💪  I’m  currently studying to be a Full Stack developer
 
 
 <h1 align="left">
