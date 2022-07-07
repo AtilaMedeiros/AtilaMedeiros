@@ -4,8 +4,11 @@
 
 <br>
 
+<!-
 <h1 align="left">
 <img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars,issues" />
+->
+
 </h1>
 
 <hr>
