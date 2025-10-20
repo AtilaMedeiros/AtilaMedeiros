@@ -2,8 +2,6 @@
 
 # 👋 Olá! Bem-vindo ao perfil do Atila Lavor
 
-### 🤖 Desenvolvedor apaixonado por criar e inovar com Inteligência Artificial
-
 </div>
 
 ---
@@ -15,7 +13,7 @@ Adoro explorar o potencial da IA para criar soluções que façam diferença no 
 
 ---
 
-## 🤖 Reflexões:
+## 🤖 Reflexões
 
 > *"A inteligência artificial não vai tomar o seu emprego — mas o profissional que sabe usá-la, sim."*
 
