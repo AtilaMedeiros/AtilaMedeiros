@@ -1,48 +1,82 @@
-### Hi there 👋 Welcome to Atila Lavor's Github page 😄
+<div align="center">
 
-- 💪  I’m a developer driven by curiosity to create and innovate with Artificial Intelligence.
+# 👋 Olá! Bem-vindo ao perfil do Atila Lavor
 
-<br>
+### 🤖 Desenvolvedor apaixonado por criar e inovar com Inteligência Artificial
 
-<!--
+</div>
 
-<img alt="AtilaLavor" src="https://github-readme-stats.codestackr.vercel.app/api?username=atilamedeiros&show_icons=true&hide_border=true&theme=vue&count_private=true&hide=stars,issues" />
+---
 
--->
+## 🚀 Sobre mim
 
-<h1 align="left">
-</h1>
+Sou um desenvolvedor movido pela curiosidade e pelo desejo de transformar ideias em soluções reais usando tecnologia e IA. Acredito no poder da inovação para resolver problemas complexos e criar experiências impactantes.
 
-<hr>
+---
 
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-[![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
- [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/Quananhle/Front-End-Dev)](https://github.com/Quananhle/Front-End-Dev)
- [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
- [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/Quananhle "Agile")](https://github.com/Quananhle) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/Quananhle "Scrum")](https://github.com/Quananhle) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/Quananhle "Kanban")](https://github.com/Quananhle)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+## 🤖 Reflexões sobre Inteligência Artificial
 
+> *"A inteligência artificial não vai tomar o seu emprego — mas o profissional que sabe usá-la, sim."*
 
+> *"Tarefas repetitivas foram feitas para as máquinas. O ser humano nasceu para criar, inovar e transformar a sociedade. Não se limite ao papel de uma máquina."*
 
-<!--
-link status:
-https://github.com/anuraghazra/github-readme-stats
-&hide=stars,commits,prs,issues,contribs
-theme=dark
+---
 
+## 🛠️ Tecnologias & Ferramentas
 
-**AtilaMedeiros/AtilaMedeiros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens & Frameworks
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
 
-Here are some ideas to get you started:
+### Data Science & AI
+<img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Banco de Dados
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+### Metodologias & Ferramentas
+<img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/-Agile-0052CC?style=flat&logoColor=white" alt="Agile" />
+<img src="https://img.shields.io/badge/-Scrum-009FDA?style=flat&logoColor=white" alt="Scrum" />
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atilamedeiros&show_icons=true&theme=vue&count_private=true&hide=stars,issues)
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=atilamedeiros&show_icons=true&theme=vue&count_private=true&hide=stars,issues" alt="GitHub Stats" />
+
+</div>
+
+---
+
+## 💡 Sobre minha jornada
+
+Adoro explorar o potencial da IA para criar soluções que façam diferença no mundo real. Estou sempre aberto a colaborações, novos projetos e conversas sobre tecnologia!
+
+---
+
+### 📫 Contato
+
+- 📍 Fortaleza, CE - Brasil  
+- ✉️ [atila.medeiros@gmail.com](mailto:atila.medeiros@gmail.com)  
+- 🔗 [LinkedIn: atilamedeiros](https://www.linkedin.com/in/atilamedeiros)  
+- 🧠 [Meu currículo](https://github.com/AtilaMedeiros)
+
+---
+
+⭐ Se curtir algum projeto, fique à vontade para dar uma estrela ou contribuir! Vamos nos conectar! 🚀
